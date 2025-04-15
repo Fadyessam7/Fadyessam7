@@ -30,8 +30,4 @@
 - 💼 LinkedIn: [Fady Esaam](https://www.linkedin.com/in/fady-e-158a26247/)
 - 🐦 Instagram: [@fadyessam7](https://www.instagram.com/fadyessam7/)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadyessam7&show_icons=true&theme=react" />
-</p>
