@@ -20,7 +20,7 @@
   &nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL_Logo" width="50" height="50"/>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL_Logo" width="50" height="50"/>
+  <img src="https://icons-for-free.com/iff/png/512/mssql-1336519699518595091.png" alt="MSSQL_Logo" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   &nbsp;
