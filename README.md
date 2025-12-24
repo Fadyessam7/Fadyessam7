@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Dynamics_365_Logo_%282021%E2%80%93present%29.svg" alt="Microsoft_Dynamics_365_Logo_" width="50" height="50"/>
+  <img src="https://s3.amazonaws.com/cdn.hotglue.xyz/images/logos/dynamics-finance.svg" alt="Microsoft_Dynamics_365_Logo_" width="50" height="50"/>
   &nbsp;
   <img src="https://az-icons.com/export/icons/80d8079c293d8a4447ade44c7322b65d.svg" alt="PowerPlatform_Logo" width="50" height="50"/>
   &nbsp;
