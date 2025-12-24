@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#_Logo" width="50" height="50"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript_Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript_Logo" width="50" height="50"/>
 </p>
 
 ---
