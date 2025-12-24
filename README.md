@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/cdn.hotglue.xyz/images/logos/dynamics-finance.svg" alt="Microsoft_Dynamics_365_Logo_" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Dynamics_365_Logo_%282021%E2%80%93present%29.svg" alt="Microsoft_Dynamics_365_Logo_" width="50" height="50"/>
   &nbsp;
   <img src="https://az-icons.com/export/icons/80d8079c293d8a4447ade44c7322b65d.svg" alt="PowerPlatform_Logo" width="50" height="50"/>
   &nbsp;
@@ -20,13 +20,17 @@
   &nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL_Logo" width="50" height="50"/>
   &nbsp;
-  <img src="https://icons-for-free.com/iff/png/512/mssql-1336519699518595091.png" alt="MSSQL_Logo" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL_Logo" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#_Logo" width="50" height="50"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" alt="JavaScript_Logo" width="50" height="50"/>
 </p>
 
 ---
